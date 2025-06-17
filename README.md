@@ -1,5 +1,6 @@
 # 🩺 Multiple Disease Prediction System using Machine Learning
-![Screenshot 2025-06-18 023018](https://github.com/user-attachments/assets/9243e05f-4d18-4108-8d3e-9e047406d6e2)
+![image](https://github.com/user-attachments/assets/2b64b72f-45f9-4457-9ad6-59d1ae8efa60)
+
 
 
 
