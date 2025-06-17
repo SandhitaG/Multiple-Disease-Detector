@@ -39,13 +39,13 @@ This project presents a smart **Health Assistant** that uses **Machine Learning*
 ---
 
 ## Project Structure
-├── 📁 sav_files/
-│ ├── diabetes_model.sav
-│ ├── heart_disease_model.sav
-│ ├── parkinsons_model.sav
-│ ├── malaria_prediction_model.sav
-│ ├── pox_model.sav
-│ └── TB_model.sav
-├── project.py # Main Streamlit app
+- ├── 📁 sav_files/
+- │ ├── diabetes_model.sav
+- │ ├── heart_disease_model.sav
+- │ ├── parkinsons_model.sav
+- │ ├── malaria_prediction_model.sav
+- │ ├── pox_model.sav
+- │ └── TB_model.sav
+- ├── project.py # Main Streamlit app
 
 
